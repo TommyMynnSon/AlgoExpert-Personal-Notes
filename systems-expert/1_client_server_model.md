@@ -1,7 +1,7 @@
 # Client-Server Model
 
 ## High Level View
-![High Level View of Client-Server Model](https://github.com/TommyMynnSon/AlgoExpert-Personal-Notes/systems-expert/images/1_client_server_model_photo_1.png)
+![High Level View of Client-Server Model](https://github.com/TommyMynnSon/AlgoExpert-Personal-Notes/blob/main/systems-expert/images/1_client_server_model_photo_1.png)
 
 ## Key Terms
 
