@@ -32,7 +32,7 @@ TCP
 - TCP is usually implemented in the kernel, which exposes <b>sockets</b> to applications that they can use to stream data through an open connection
 
 HTTP
-- The <b>H<b>yper<b>T</b>ext <b>T</b>ransfer <b>P</b>rotocol is a very common network protocol implemented on top of TCP. Clients make HTTP requests, and servers respond with a response
+- The <b>H</b>yper<b>T</b>ext <b>T</b>ransfer <b>P</b>rotocol is a very common network protocol implemented on top of TCP. Clients make HTTP requests, and servers respond with a response
 - Requests typically have the following schema:
   ```
   host: string (example: algoexpert.io)
