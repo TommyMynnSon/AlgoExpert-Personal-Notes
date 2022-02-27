@@ -2,9 +2,9 @@
 
 ## High Level View
 
-![High Level View of Network Protocols Photo 1](https://github.com/TommyMynnSon/AlgoExpert-Personal-Notes/systems-expert/images/4_network_protocols_photo_1.png)
+![High Level View of Network Protocols Photo 1](https://github.com/TommyMynnSon/AlgoExpert-Personal-Notes/blob/main/systems-expert/images/4_network_protocols_photo_1.png)
 
-![High Level View of Network Protocols Photo 2](https://github.com/TommyMynnSon/AlgoExpert-Personal-Notes/systems-expert/images/4_network_protocols_photo_2.png)
+![High Level View of Network Protocols Photo 2](https://github.com/TommyMynnSon/AlgoExpert-Personal-Notes/blob/main/systems-expert/images/4_network_protocols_photo_2.png)
 
 ## Prerequisites
 
